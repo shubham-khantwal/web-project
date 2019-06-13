@@ -1,37 +1,22 @@
 ## HOW I CREATED SO EASILY
 
-You can use the [editor on GitHub](https://github.com/shubham-khantwal/web-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+STEPS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1- CREATE A REPOSITORY 
+2- GO TO SETTINGS
+3- CHECK YOU HAVE SELECTED MASTER AS YOUR CURRENT ACTIVE REPOSITORY 
+4. BELOW IT YOU WILL FIND THE THEMES YOU WANT TO SET FOR YOUR WEBSITE 
+5. ABOVE THIS YOU  WILL FIND THE LINK TO YOUR WEBSITE
 
-### Markdown
+** SOME FACT **
+__ These are not website but github pages that we create __
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+** ANOTHER WAY **
 
-```markdown
-Syntax highlighted code block
+YOU CAN DIRECTLY UPLOAD YOUR WEBSITE CODE IN THE REPOSITORY
 
-# Header 1
-## Header 2
-### Header 3
+** THIRD WAY **
 
-- Bulleted
-- List
+YOU CAN CREATE NEW FILE AND WRITE HTML CODE 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shubham-khantwal/web-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+NOTE : IT TAKES TIME TO UPDATE THE CHANGES ON REFRESHING THE LINK OF THE WEBSITE
