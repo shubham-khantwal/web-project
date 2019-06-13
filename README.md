@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HOW I CREATED SO EASILY
 
 You can use the [editor on GitHub](https://github.com/shubham-khantwal/web-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
